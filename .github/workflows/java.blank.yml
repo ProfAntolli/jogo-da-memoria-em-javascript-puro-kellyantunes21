@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Javascript
 
 # Controls when the workflow will run
 on:
@@ -34,4 +34,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          <div class="memory-card">
           
+          
+  <img class="front-face"src="img/react.svg" alt="Face da Carta"<https://www.tecmundo.com.br/produto/228377-curso-javascript-aprenda-linguagem-programacao.htm>
+  <img class="back-face" src="img/js-badge.svg" alt="Verso da Carta">https://www.treinaweb.com.br/blog/trabalhando-com-arrays-e-objetos-no-javascript
+</div>
